@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "156259880664",
+    "project_id": "restaurant-management-systemss",
+    "storage_bucket": "restaurant-management-systemss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156259880664:android:4d59edc627b8400af151ad",
+        "android_client_info": {
+          "package_name": "com.dineout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156259880664-dlhkil81jth3nqk2h3hl0p4q24cdn57h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv8fYm-Hi6R_t-fr-q8fY0al2wCBxCtUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156259880664-dlhkil81jth3nqk2h3hl0p4q24cdn57h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
